@@ -1,2 +1,2 @@
 # rconnnectionpool
-r connection pool
+RServe Connection Pool
