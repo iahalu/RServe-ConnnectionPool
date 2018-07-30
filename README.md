@@ -1,2 +1,2 @@
-# rconnnectionpool
+# RServe Connnection Pool
 RServe Connection Pool
